@@ -1,0 +1,2 @@
+# globlal
+proyecto laboratorio software
